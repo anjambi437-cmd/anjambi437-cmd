@@ -1,16 +1,28 @@
-## Hi there 👋
+ 👋 Hi, I'm Alice Njambi
 
-<!--
-**anjambi437-cmd/anjambi437-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Student  
+🔍 Currently seeking attachment/internship opportunities  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- HTML  
+- CSS  
+- Java  
+
+
+🚀 Projects
+🌐 Tress Hairstyle Website
+A mobile hair service platform that connects customers with professional hairstylists.  
+- Designed and developed a user-friendly interface  
+- Focused on accessibility and ease of booking services  
+
+
+🎯 Goals
+- Improve my web development skills  
+- Learn more about mobile app development  
+- Contribute to real-world projects  
+
+
+📫 Contact Me
+-Phone number:0797914694
+- Email: anjambi437@gmail.com
