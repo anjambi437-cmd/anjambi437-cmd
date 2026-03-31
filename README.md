@@ -10,7 +10,8 @@
 - Java  
 
 
-🚀 Projects
+🚀 Projects 
+ 
 🌐 Tress Hairstyle Website
 A mobile hair service platform that connects customers with professional hairstylists.  
 - Designed and developed a user-friendly interface  
@@ -24,5 +25,5 @@ A mobile hair service platform that connects customers with professional hairsty
 
 
 📫 Contact Me 
--Phone number:0797914694
 - Email: anjambi437@gmail.com
+- Phone Number:0797914694
